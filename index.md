@@ -3,13 +3,14 @@ layout: homepage
 ---
 
 ## About Me
+I will define myself as a transdisciplinary researcher,  when making a great leap from media studies to the field of human geography. Driven by a passion to explore the dynamics of smart cities and the data capitalism, I started my doctorate training at the Department of Geography, University of Calgary. 
 
-I am a Ph.D. student at ...
+While it may sound like a cautionary tale from the future, I believe that all urban activities will eventually feed into AI infrastructures of smart cities, generating data that optimize the entire system while also creating economic value for governments and corporate third-parties. My current work aims to theorize this vision while advocating for justice and equality.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **smart city:** image recognition, image generation, video captioning
+- **economic sociology:** meta-learning, incremental learning, transfer learning
 
 ## News
 
